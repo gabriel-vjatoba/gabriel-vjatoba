@@ -1,10 +1,14 @@
-# Olá, eu sou Gabriel
+# Hi, I'm Gabriel
 <div style="display: inline_block"><br>
-<b>🏛️ Estudante em <a href="https://www2.ifal.edu.br/">Instituto Federal de Alagoas</a><br><br>
-  👨‍💻 Estudando:</b>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <div style="display:flex; align-items: center;">
+    <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1f7.png" height="30px">
+    <b style="margin-left: 10px">From Brazil</b>
+  </div>
+  <b>🏛️ Student at <a href="https://www2.ifal.edu.br/">Instituto Federal de Alagoas</a><br>
+    👨‍💻 Learning:</b>
+    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
 </div>
 <br>
 <div align="center">

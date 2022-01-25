@@ -1,7 +1,7 @@
 # Hi, I'm Gabriel
 <div style="display: inline_block"><br>
   <div style="display:flex; align-items: center;">
-    <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1f7.png" height="30px">
+    <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1f7.png" height="17px">
     <b style="margin-left: 10px">From Brazil</b>
   </div>
   <b>🏛️ Student at <a href="https://www2.ifal.edu.br/">Instituto Federal de Alagoas</a><br>

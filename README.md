@@ -1,4 +1,5 @@
 # Hi, I'm Gabriel
+[![wakatime](https://wakatime.com/badge/user/84b0df08-aee2-4136-b4bb-7c23a31a2bdb.svg)](https://github.com/gabriel-vjatoba)
 <div style="display: inline_block"><br>
   <div style="display:flex; align-items: center;">
     <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1f7.png" height="17px">
@@ -13,13 +14,9 @@
 <br>
 <div align="center">
   <a href="https://github.com/gabriel-vjatoba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-vjatoba&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Minhas Estatísticas:"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vjatoba&langs_count=7&theme=github_dark&custom_title=Desenvolvendo em:"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-vjatoba&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&custom_title=Gabriel's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-vjatoba&langs_count=7&theme=github_dark&custom_title=Most Used Languages:"/>
 </div>
-
-[![gabrielvjatoba wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabrielvjatoba)](https://github.com/gabriel-vjatoba)
-
 <hr>
 <a href="https://www.linkedin.com/in/gabriel-jatob%C3%A1-2641701b5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.youtube.com/channel/UCrVIq6sX6iEblzQDuempn5g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
